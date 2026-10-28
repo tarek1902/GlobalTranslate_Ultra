@@ -45,7 +45,7 @@ echo -e "${GREEN}✓ Temporary files cleaned${NC}"
 # Settings
 plugin=GlobalTranslateUltra
 version=7.1
-url=https://raw.githubusercontent.com/Ham-ahmed/GTU/refs/heads/main/GlobalTranslate_Ultra-7.1.tar.gz
+url=https://raw.githubusercontent.com/tarek1902/GlobalTranslate_Ultra/refs/heads/main/GlobalTranslate_Ultra-7.1.tar.gz
 package=/var/volatile/tmp/$plugin-$version.tar.gz
 
 # Download and install
